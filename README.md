@@ -25,7 +25,7 @@ Follow these steps to get Lyrical up and running on your local machine:
 1. **Clone the Repository:**
    - Clone this repository to your local machine using the command:
      ```
-     git clone https://github.com/cyrus-shakya/lyrical-app.git
+     git clone https://github.com/cyrus-shakya/Lyrical-App.git
      ```
 
 2. **Install Dependencies:**
@@ -50,6 +50,6 @@ Follow these steps to get Lyrical up and running on your local machine:
 
 ## Feedback:
 
-We value your feedback! If you have suggestions or questions, reach out to us at [lyrical-support@example.com](mailto:lyrical-support@example.com).
+We value your feedback! If you have suggestions or issue, reach out to us at shakya.cyrus@gmail.com
 
 Enjoy exploring lyrics with Lyrical App!
